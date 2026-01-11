@@ -1,0 +1,5 @@
+{
+  "name": "StructCalc Pro",
+  "description": "Professional structural beam analysis tool featuring reaction calculations, shear/moment diagrams, and safety factor verification.",
+  "requestFramePermissions": []
+}
